@@ -9,6 +9,9 @@
 "target_required_parts": [
 	"breasts"
 ],
+"interaction_requires": [
+	"self_hand"
+	],
 "target_pleasure": 2,
 "target_arousal": 1,
 "lewd": 1,

@@ -9,6 +9,9 @@
 "target_required_parts": [
 	"penis"
 ],
+"interaction_requires": [
+	"self_hand"
+	],
 "target_pleasure": 3,
 "target_arousal": 5,
 "lewd": 1,

@@ -9,6 +9,9 @@
 	"target_required_parts": [
 		"testicles"
 	],
+	"interaction_requires": [
+		"self_hand"	
+		],
 	"target_pleasure": 5,
 	"target_arousal": 7,
 	"lewd": 1,
