@@ -1,0 +1,16 @@
+{
+"name": "Masturbate (Cock)",
+"description": "Stroke your cock.",
+"usage": "self",
+"category": "Sex",
+"distance_allowed": 0,
+"message": ["<span class='purple'>test</span>"],
+"target_messages": ["<span class='purple'>test test</span>"],
+"target_required_parts": [
+	"penis"
+],
+"target_pleasure": 3,
+"target_arousal": 5,
+"lewd": 1,
+"color": "pink"
+}

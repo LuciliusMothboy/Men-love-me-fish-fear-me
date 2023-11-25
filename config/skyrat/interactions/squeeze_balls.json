@@ -1,0 +1,18 @@
+{
+	"name": "Squeeze Balls",
+	"description": "Squeeze their balls in your hand! (This will cause them pain, obviously.)",
+	"usage": "other",
+	"category": "Sex",
+	"distance_allowed": 0,
+	"message": ["<span class='purple'>test</span>"],
+	"user_messages": ["<span class='purple'>test test</span>"],
+	"target_messages": ["<span class='purple'>test test test</span>"],
+	"target_required_parts": [
+		"testicles"
+	],
+	"target_pleasure": 5,
+	"target_arousal": 7,
+	"target_pain": 10,
+	"lewd": 1,
+	"color": "red"
+	}

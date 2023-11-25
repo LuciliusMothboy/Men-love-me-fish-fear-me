@@ -1,0 +1,17 @@
+{
+	"name": "Masturbate (Anus)",
+	"description": "Finger your own ass.",
+	"usage": "self",
+	"category": "Sex",
+	"distance_allowed": 0,
+	"message": ["<span class='purple'>test</span>"],
+	"target_messages": ["<span class='purple'>test test</span>"],
+	"target_required_parts": [
+		"anus"
+	],
+	"target_pleasure": 3,
+	"target_arousal": 5,
+	"target_pain": 2,
+	"lewd": 1,
+	"color": "pink"
+	}

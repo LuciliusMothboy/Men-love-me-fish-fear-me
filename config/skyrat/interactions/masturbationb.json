@@ -1,0 +1,16 @@
+{
+"name": "Masturbate (Breasts)",
+"description": "Fondle your tits.",
+"usage": "self",
+"category": "Sex",
+"distance_allowed": 0,
+"message": ["<span class='purple'>test</span>"],
+"target_messages": ["<span class='purple'>test test</span>"],
+"target_required_parts": [
+	"breasts"
+],
+"target_pleasure": 2,
+"target_arousal": 1,
+"lewd": 1,
+"color": "pink"
+}

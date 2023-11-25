@@ -1,0 +1,19 @@
+{
+	"name": "Fondle Balls",
+	"description": "Give their balls some needed love and care~",
+	"usage": "other",
+	"category": "Sex",
+	"distance_allowed": 0,
+	"message": ["<span class='purple'>test</span>"],
+	"user_messages": ["<span class='purple'>test test</span>"],
+	"target_messages": ["<span class='purple'>test test test</span>"],
+	"target_required_parts": [
+		"testicles"
+	],
+	"user_pleasure": 0,
+	"user_arousal": 10,
+	"target_pleasure": 5,
+	"target_arousal": 7,
+	"lewd": 1,
+	"color": "pink"
+	}
