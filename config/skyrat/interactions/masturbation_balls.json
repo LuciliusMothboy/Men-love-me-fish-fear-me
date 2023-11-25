@@ -5,15 +5,14 @@
 	"category": "Sex",
 	"distance_allowed": 0,
 	"message": ["<span class='purple'>test</span>"],
-	"target_messages": ["<span class='purple'>test test</span>"],
-	"target_required_parts": [
+	"user_required_parts": [
 		"testicles"
 	],
 	"interaction_requires": [
-		"self_hand"	
+		"self_hand"
 		],
-	"target_pleasure": 5,
-	"target_arousal": 7,
+	"user_pleasure": 5,
+	"user_arousal": 7,
 	"lewd": 1,
 	"color": "pink"
 	}
