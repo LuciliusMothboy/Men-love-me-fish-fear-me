@@ -4,15 +4,33 @@
 	"usage": "other",
 	"category": "Sex",
 	"distance_allowed": 0,
-	"message": ["<span class='purple'>test</span>"],
-	"user_messages": ["<span class='purple'>test test</span>"],
-	"target_messages": ["<span class='purple'>test test test</span>"],
+	"message": [
+		"<span class='purple'>%USER% grabs %TARGET%'s balls and squeezes them!</span>",
+		"<span class='purple'>%USER% grabs %TARGET%'s orbs and squeezes them!</span>",
+		"<span class='purple'>%USER% squeezes %TARGET%'s balls!</span>",
+		"<span class='purple'>%USER% grabs %TARGET%'s nuts and squeezes them!</span>"
+],
+	"user_messages": [
+		"<span class='purple'>You grab %TARGET%'s balls, giving them a gentle squeeze in your hand!</span>",
+		"<span class='purple'>You grab %TARGET%'s balls, giving them a hearty squeeze!</span>",
+		"<span class='purple'>You grab %TARGET%'s balls, giving them a rough squeeze in your hand!</span>",
+		"<span class='purple'>You grab %TARGET%'s balls, giving them a hearty squeeze in your hand!</span>",
+		"<span class='purple'>You grab %TARGET%'s balls, giving them a rough squeeze!</span>",
+		"<span class='purple'>You squeeze %TARGET%'s balls.</span>"
+],
+	"target_messages": [
+		"<span class='purple'>You feel an aching pain radiating into your abdomen as %USER% squeezes your balls in their hand.</span>",
+		"<span class='purple'>You feel a strong pang in your stomach as %USER% squeezes your balls in their hand.</span>",
+		"<span class='purple'>You feel pain in your groin as your balls are squeezed by %USER%'s hands!</span>"
+],
 	"target_required_parts": [
 		"testicles"
 	],
+	"user_pleasure": 0,
+	"user_arousal": 5,
 	"target_pleasure": 5,
 	"target_arousal": 7,
-	"target_pain": 10,
+	"target_pain": 5,
 	"lewd": 1,
 	"color": "red"
 	}

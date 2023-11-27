@@ -4,7 +4,13 @@
 	"usage": "self",
 	"category": "Sex",
 	"distance_allowed": 0,
-	"message": ["<span class='purple'>test</span>"],
+	"message": [
+		"<span class='purple'>%USER% gently pumps a finger in and out of their own asshole.</span>",
+		"<span class='purple'>%USER% gently pumps two fingers in and out of their own asshole.</span>",
+		"<span class='purple'>%USER% fingers their own ass!</span>",
+		"<span class='purple'>%USER% tickles their own asshole with their fingers.</span>",
+		"<span class='purple'>%USER% teases their own asshole with their fingers.</span>"
+],
 	"user_required_parts": [
 		"anus"
 	],

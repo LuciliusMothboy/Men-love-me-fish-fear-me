@@ -4,9 +4,22 @@
 	"usage": "other",
 	"category": "Sex",
 	"distance_allowed": 0,
-	"message": ["<span class='purple'>test</span>"],
-	"user_messages": ["<span class='purple'>test test</span>"],
-	"target_messages": ["<span class='purple'>test test test</span>"],
+	"message": [
+		"<span class='purple'>%USER% rubs %TARGET%'s balls!</span>",
+		"<span class='purple'>%USER% fondles %TARGET%'s balls!</span>",
+		"<span class='purple'>%USER% rubs %TARGET%'s ballsack!</span>"
+],
+	"user_messages": [
+		"<span class='purple'>You feel up %TARGET%'s balls.</span>",
+		"<span class='purple'>You lovingly rub %TARGET%'s balls.</span>"
+],
+	"target_messages": [
+		"<span class='purple'>You feel %USER%'s hands gently rubbing your balls.</span>",
+		"<span class='purple'>You feel %USER%'s hands fondling your balls.</span>",
+		"<span class='purple'>Your balls twitch as %USER% toys with your sack!</span>",
+		"<span class='purple'>You feel %USER%'s hands fondling your orbs.</span>",
+		"<span class='purple'>You feel %USER%'s hands fondling your ballsack.</span>"
+	],
 	"target_required_parts": [
 		"testicles"
 	],

@@ -4,7 +4,13 @@
 	"usage": "self",
 	"category": "Sex",
 	"distance_allowed": 0,
-	"message": ["<span class='purple'>test</span>"],
+	"message": [
+		"<span class='purple'>%USER% rubs their own clitoris.</span>",
+		"<span class='purple'>%USER% sinks a finger into their own pussy.</span>",
+		"<span class='purple'>%USER% gently pumps a finger into their own pussy.</span>",
+		"<span class='purple'>%USER% sinks two fingers into their own pussy.</span>",
+		"<span class='purple'>%USER% gently pumps two fingers into their own pussy.</span>"
+],
 	"user_required_parts": [
 		"vagina"
 	],

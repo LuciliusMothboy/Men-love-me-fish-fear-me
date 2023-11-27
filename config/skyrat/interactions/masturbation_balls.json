@@ -4,7 +4,15 @@
 	"usage": "self",
 	"category": "Sex",
 	"distance_allowed": 0,
-	"message": ["<span class='purple'>test</span>"],
+	"message": [
+		"<span class='purple'>%USER% fondles their own balls.</span>",
+	"<span class='purple'>%USER% rubs their own balls vigorously!</span>",
+	"<span class='purple'>%USER% plays with their own balls.</span>",
+	"<span class='purple'>%USER% rubs their own balls gently.</span>",
+	"<span class='purple'>%USER% plays with their own orbs.</span>",
+	"<span class='purple'>%USER% rubs their own balls.</span>",
+	"<span class='purple'>%USER% plays with their own ballsack.</span>"
+],
 	"user_required_parts": [
 		"testicles"
 	],

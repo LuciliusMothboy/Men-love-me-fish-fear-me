@@ -4,7 +4,18 @@
 "usage": "self",
 "category": "Sex",
 "distance_allowed": 0,
-"message": ["<span class='purple'>test</span>"],
+"message": [
+	"<span class='purple'>%USER% rubs their own breasts.</span>",
+	"<span class='purple'>%USER% gives their own breasts a squeeze.</span>",
+	"<span class='purple'>%USER% gropes their own breasts.</span>",
+	"<span class='purple'>%USER% gives their own boobs a squeeze.</span>",
+	"<span class='purple'>%USER% rubs their own boobs.</span>",
+	"<span class='purple'>%USER% rubs their own nipples.</span>",
+	"<span class='purple'>%USER% gropes their own boobs.</span>",
+	"<span class='purple'>%USER% jiggles their own boobs.</span>",
+	"<span class='purple'>%USER% jiggles their own breasts.</span>",
+	"<span class='purple'>%USER% jiggles their tits with their hands!</span>"
+],
 "user_required_parts": [
 	"breasts"
 ],

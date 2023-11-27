@@ -4,7 +4,11 @@
 "usage": "self",
 "category": "Sex",
 "distance_allowed": 0,
-"message": ["<span class='purple'>test</span>"],
+"message": [
+	"<span class='purple'>%USER% grabs their own cock, slowly pumping their hand up and down its shaft.</span>",
+	"<span class='purple'>%USER% jerks themself off!</span>",
+	"<span class='purple'>%USER% grasps their own cock tightly as they rapidly jerk themself off!</span>"
+],
 "user_required_parts": [
 	"penis"
 ],
