@@ -8,7 +8,10 @@
 		"<span class='purple'>%USER% grabs %TARGET%'s balls and squeezes them!</span>",
 		"<span class='purple'>%USER% grabs %TARGET%'s orbs and squeezes them!</span>",
 		"<span class='purple'>%USER% squeezes %TARGET%'s balls!</span>",
-		"<span class='purple'>%USER% grabs %TARGET%'s nuts and squeezes them!</span>"
+		"<span class='purple'>%USER% grabs %TARGET%'s nuts and squeezes them!</span>",
+		"<span class='purple'>%USER% grasps %TARGET%'s balls and squeezes them gently in their hand.</span>",
+		"<span class='purple'>%USER% grasps %TARGET%'s balls and squeezes them in their hand.</span>",
+		"<span class='purple'>%USER% grabs ahold of %TARGET%'s sack and squeezes it!</span>"
 ],
 	"user_messages": [
 		"<span class='purple'>You grab %TARGET%'s balls, giving them a gentle squeeze in your hand!</span>",
@@ -16,7 +19,8 @@
 		"<span class='purple'>You grab %TARGET%'s balls, giving them a rough squeeze in your hand!</span>",
 		"<span class='purple'>You grab %TARGET%'s balls, giving them a hearty squeeze in your hand!</span>",
 		"<span class='purple'>You grab %TARGET%'s balls, giving them a rough squeeze!</span>",
-		"<span class='purple'>You squeeze %TARGET%'s balls.</span>"
+		"<span class='purple'>You squeeze %TARGET%'s balls.</span>",
+		"<span class='purple'>You grab %TARGET%'s orbs, giving them a gentle squeeze in your hand!</span>"
 ],
 	"target_messages": [
 		"<span class='purple'>You feel an aching pain radiating into your abdomen as %USER% squeezes your balls in their hand.</span>",

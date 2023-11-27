@@ -7,18 +7,25 @@
 	"message": [
 		"<span class='purple'>%USER% rubs %TARGET%'s balls!</span>",
 		"<span class='purple'>%USER% fondles %TARGET%'s balls!</span>",
-		"<span class='purple'>%USER% rubs %TARGET%'s ballsack!</span>"
+		"<span class='purple'>%USER% rubs %TARGET%'s ballsack!</span>",
+		"<span class='purple'>%USER% rubs %TARGET%'s nuts!</span>",
+		"<span class='purple'>%USER% fondles %TARGET%'s orbs!</span>",
+		"<span class='purple'>%USER% feels up %TARGET%'s balls with their hands!</span>",
+		"<span class='purple'>%USER% grabs %TARGET%'s balls!</span>"
 ],
 	"user_messages": [
 		"<span class='purple'>You feel up %TARGET%'s balls.</span>",
-		"<span class='purple'>You lovingly rub %TARGET%'s balls.</span>"
+		"<span class='purple'>You lovingly rub %TARGET%'s balls.</span>",
+		"<span class='purple'>You fondle %TARGET%'s balls.</span>"
 ],
 	"target_messages": [
 		"<span class='purple'>You feel %USER%'s hands gently rubbing your balls.</span>",
 		"<span class='purple'>You feel %USER%'s hands fondling your balls.</span>",
 		"<span class='purple'>Your balls twitch as %USER% toys with your sack!</span>",
 		"<span class='purple'>You feel %USER%'s hands fondling your orbs.</span>",
-		"<span class='purple'>You feel %USER%'s hands fondling your ballsack.</span>"
+		"<span class='purple'>You feel %USER%'s hands fondling your ballsack.</span>",
+		"<span class='purple'>Your balls twitch as %USER% plays with your sack!</span>",
+		"<span class='purple'>Your balls twitch as %USER% plays with your them!</span>"
 	],
 	"target_required_parts": [
 		"testicles"

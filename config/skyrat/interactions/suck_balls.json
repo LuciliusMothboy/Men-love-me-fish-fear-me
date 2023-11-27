@@ -4,7 +4,10 @@
 	"usage": "other",
 	"category": "Sex",
 	"distance_allowed": 0,
-	"message": ["<span class='purple'>%USER% sucks on %TARGET%'s balls!</span>"],
+	"message": [
+		"<span class='purple'>%USER% sucks on %TARGET%'s balls!</span>",
+		"<span class='purple'>%USER% wraps their mouth around %TARGET%'s balls.</span>"
+],
 	"user_messages": [
 		"<span class='purple'>Your tongue explores %TARGET%'s balls as you gently suckle on them.</span>",
 		"<span class='purple'>You feel %TARGET%'s balls stiffen in your mouth slightly as you suck on them.</span>"
