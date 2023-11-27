@@ -16,7 +16,9 @@
 	"user_messages": [
 		"<span class='purple'>You feel up %TARGET%'s balls.</span>",
 		"<span class='purple'>You lovingly rub %TARGET%'s balls.</span>",
-		"<span class='purple'>You fondle %TARGET%'s balls.</span>"
+		"<span class='purple'>You fondle %TARGET%'s balls.</span>",
+		"<span class='purple'>You grab %TARGET%'s balls!</span>",
+		"<span class='purple'>You play with %TARGET%'s balls.!</span>"
 ],
 	"target_messages": [
 		"<span class='purple'>You feel %USER%'s hands gently rubbing your balls.</span>",

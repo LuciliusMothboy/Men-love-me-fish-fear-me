@@ -10,7 +10,10 @@
 ],
 	"user_messages": [
 		"<span class='purple'>Your tongue explores %TARGET%'s balls as you gently suckle on them.</span>",
-		"<span class='purple'>You feel %TARGET%'s balls stiffen in your mouth slightly as you suck on them.</span>"
+		"<span class='purple'>You feel %TARGET%'s balls stiffen in your mouth slightly as you suck on them.</span>",
+		"<span class='purple'>You feel %TARGET%'s nuts stiffen in your mouth slightly as you suck on them.</span>",
+		"<span class='purple'>You suck %TARGET%'s balls!</span>",
+		"<span class='purple'>You suck %TARGET%'s orbs.</span>"
 ],
 	"target_messages": ["<span class='purple'>You feel one of your balls gently suckled as it's enveloped by %USER%'s mouth. And then, not long after, the other as well is enveloped into wet, warm bliss...~</span>"],
 	"target_required_parts": [
