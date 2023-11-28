@@ -19,7 +19,9 @@
 	"<span class='purple'>%USER% feels up their own cleavage.</span>",
 	"<span class='purple'>%USER% gropes their own tits.</span>",
 	"<span class='purple'>%USER% squeezes their own breasts.</span>",
-	"<span class='purple'>%USER% rubs their own tits.</span>"
+	"<span class='purple'>%USER% rubs their own tits.</span>",
+	"<span class='purple'>%USER% grips their own breasts with their hands!</span>",
+	"<span class='purple'>%USER% grips their own tits with their hands!</span>"
 ],
 "user_required_parts": [
 	"breasts"
