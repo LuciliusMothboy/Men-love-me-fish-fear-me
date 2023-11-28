@@ -6,7 +6,8 @@
 	"distance_allowed": 0,
 	"message": [
 		"<span class='purple'>%USER% sucks on %TARGET%'s balls!</span>",
-		"<span class='purple'>%USER% wraps their mouth around %TARGET%'s balls.</span>"
+		"<span class='purple'>%USER% wraps their mouth around %TARGET%'s balls.</span>",
+		"<span class='purple'>%USER% wraps their mouth around %TARGET%'s nuts.</span>"
 ],
 	"user_messages": [
 		"<span class='purple'>Your tongue explores %TARGET%'s balls as you gently suckle on them.</span>",
@@ -17,7 +18,11 @@
 		"<span class='purple'>You feel %TARGET%'s orbs stiffen in your mouth slightly as you suck on them.</span>",
 		"<span class='purple'>You suck %TARGET%'s nuts!</span>"
 ],
-	"target_messages": ["<span class='purple'>You feel one of your balls gently suckled as it's enveloped by %USER%'s mouth. And then, not long after, the other as well is enveloped into wet, warm bliss...~</span>"],
+	"target_messages": [
+		"<span class='purple'>You feel one of your balls gently suckled as it's enveloped by %USER%'s mouth. And then, not long after, the other as well is enveloped into wet, warm bliss...~</span>",
+		"<span class='purple'>You feel your balls stiffen slightly as %USER% sucks on them!</span>",
+		"<span class='purple'>You feel the damp warmth of %USER%'s mouth enveloping your sack.</span>"
+	],
 	"target_required_parts": [
 		"testicles"
 	],

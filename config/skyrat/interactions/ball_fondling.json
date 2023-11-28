@@ -18,7 +18,8 @@
 		"<span class='purple'>You lovingly rub %TARGET%'s balls.</span>",
 		"<span class='purple'>You fondle %TARGET%'s balls.</span>",
 		"<span class='purple'>You grab %TARGET%'s balls!</span>",
-		"<span class='purple'>You play with %TARGET%'s balls.!</span>"
+		"<span class='purple'>You play with %TARGET%'s balls.!</span>",
+		"<span class='purple'>You caress %TARGET%'s balls.</span>"
 ],
 	"target_messages": [
 		"<span class='purple'>You feel %USER%'s hands gently rubbing your balls.</span>",
@@ -27,7 +28,9 @@
 		"<span class='purple'>You feel %USER%'s hands fondling your orbs.</span>",
 		"<span class='purple'>You feel %USER%'s hands fondling your ballsack.</span>",
 		"<span class='purple'>Your balls twitch as %USER% plays with your sack!</span>",
-		"<span class='purple'>Your balls twitch as %USER% plays with your them!</span>"
+		"<span class='purple'>Your balls twitch as %USER% plays with them!</span>",
+		"<span class='purple'>Your balls twitch as %USER% toys with them!</span>",
+		"<span class='purple'>You feel %USER%'s hands fondling your sack.</span>"
 	],
 	"target_required_parts": [
 		"testicles"
