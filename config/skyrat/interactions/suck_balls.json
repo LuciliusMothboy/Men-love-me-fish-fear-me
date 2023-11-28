@@ -21,7 +21,8 @@
 	"target_messages": [
 		"<span class='purple'>You feel one of your balls gently suckled as it's enveloped by %USER%'s mouth. And then, not long after, the other as well is enveloped into wet, warm bliss...~</span>",
 		"<span class='purple'>You feel your balls stiffen slightly as %USER% sucks on them!</span>",
-		"<span class='purple'>You feel the damp warmth of %USER%'s mouth enveloping your sack.</span>"
+		"<span class='purple'>You feel the damp warmth of %USER%'s mouth enveloping your sack.</span>",
+		"<span class='purple'>You feel %USER% gently suck on your balls.</span>"
 	],
 	"target_required_parts": [
 		"testicles"
