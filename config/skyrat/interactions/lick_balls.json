@@ -12,7 +12,7 @@
         "%USER% licks %TARGET%'s ballsack!",
         "%USER% drags their tongue along %TARGET%'s ballsack!",
         "%USER% laps away at %TARGET%'s ballsack!",
-        "%USER% brushes their tongue against %TARGET%'s ballsack!",        
+        "%USER% brushes their tongue against %TARGET%'s ballsack!",
         "%USER% licks %TARGET%'s orbs!",
         "%USER% drags their tongue along %TARGET%'s orbs!",
         "%USER% laps away at %TARGET%'s orbs!",
@@ -41,5 +41,6 @@
     "user_arousal": 7,
     "target_pleasure": 5,
     "target_arousal": 7,
-    "lewd": 1
+    "lewd": 1,
+	"color": "pink"
 }
