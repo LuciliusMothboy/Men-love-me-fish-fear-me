@@ -13,6 +13,12 @@
 	"<span class='purple'>%USER% rubs their own balls.</span>",
 	"<span class='purple'>%USER% plays with their own ballsack.</span>"
 ],
+"user_messages": [
+"<span class='purple'>You play with your own balls.</span>",
+"<span class='purple'>You play with your own ballsack.</span>",
+"<span class='purple'>You rub your own balls.</span>",
+"<span class='purple'>You rub your own balls vigorously!</span>"
+],
 	"user_required_parts": [
 		"testicles"
 	],

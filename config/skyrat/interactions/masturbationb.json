@@ -24,6 +24,19 @@
 	"<span class='purple'>%USER% grips their own tits with their hands!</span>",
 	"<span class='purple'>%USER% grips their own boobs with their hands!</span>"
 ],
+"user_messages": [
+	"<span class='purple'>You grip your own tits with your hands!</span>",
+	"<span class='purple'>You squeeze your breasts.</span>",
+	"<span class='purple'>You give your breasts a squeeze.</span>",
+	"<span class='purple'>You grip your own breasts with your hands!</span>",
+	"<span class='purple'>You feel up your own cleavage.</span>",
+	"<span class='purple'>You grip your boobs with your hands!</span>",
+	"<span class='purple'>You jiggle your boobs.</span>",
+	"<span class='purple'>You grope your own boobs.</span>",
+	"<span class='purple'>You jiggle your breasts.</span>",
+	"<span class='purple'>You rub your boobs.</span>",
+	"<span class='purple'>You rub your nipples.</span>"
+],
 "user_required_parts": [
 	"breasts"
 ],
