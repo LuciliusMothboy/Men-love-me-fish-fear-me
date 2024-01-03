@@ -11,7 +11,7 @@
 * Getting hit by the objects that come out of there is going to HURT. And possibly kill you.
 */
 
-/*/datum/round_event_control/white_hole_event
+/datum/round_event_control/white_hole_event
 	name = "White Hole: Code Test Version"
 	typepath = /datum/round_event/white_hole_event
 	weight = 0
@@ -19,8 +19,3 @@
 	earliest_start = 45 MINUTES
 	category = EVENT_CATEGORY_SPACE
 	description = "Spawns a White Hole!"
-
-	/datum/round_event/white_hole_event
-	start_when = 6
-	end_when	= 66
-	announce_when = 10
